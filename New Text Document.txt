@@ -1,4 +1,7 @@
-﻿git clone đường link 
+﻿Tôi đã sữa tại nhánh master
+
+
+git clone đường link 
 sua doi
 git add .
 git status
