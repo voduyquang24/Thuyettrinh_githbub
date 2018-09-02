@@ -1,0 +1,39 @@
+﻿git clone đường link 
+sua doi
+git add .
+git status
+
+git commit -m"comment"
+git push
+
+
+can cap nhat thay dôi
+git pull
+
+xoắn ốc  
+mẩu thử
+thác nước
+
+https://www.youtube.com/watch?v=ejN-oAw9vC0 
+
+https://www.youtube.com/watch?v=wCsPAquMNVw
+hiển thị nhiều cmt hơn
+
+https://www.youtube.com/watch?v=rJesac0_Ftw
+
+// bai tap android 
+
+-LIST VIEW trong android , lay du lieu tu xml  
+
+
+https://www.youtube.com/results?search_query=search+ajax+php+
+
+https://www.youtube.com/watch?v=55wqc-4xKBo
+https://www.youtube.com/watch?v=mZOpvhywT_E
+https://www.youtube.com/watch?v=Bv9XrpmdopI&index=3&list=RDwCsPAquMNVw
+
+
+https://stackoverflow.com/questions/8988855/include-another-html-file-in-a-html-file
+
+
+https://www.youtube.com/watch?v=3YCkW7J9NP0
