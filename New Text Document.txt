@@ -1,5 +1,6 @@
 ﻿Tôi đã sữa tại nhánh master
 
+TÔI MUỐN GÓP Ý CODE VÀO PHẦN CỦA BẠN
 
 git clone đường link 
 sua doi
